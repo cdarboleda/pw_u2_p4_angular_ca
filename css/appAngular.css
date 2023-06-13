@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    border: 2px solid black;
+    width: fit-content;
+    height: fit-content;
+    padding: 5%;
+    color: white;
+    background-color: crimson;
+}
